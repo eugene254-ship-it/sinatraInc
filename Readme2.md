@@ -160,3 +160,70 @@ A-side can modify the ranking value of a shop. The higher the ranking value, the
 The following demonstrates the process of reviewing the product uploaded by the user on the management side
 
 The demo below displays the procedure of how C-side review the product uploaded by C-side.
+Shop Management Shop Management
+The store owner's management of the store is mainly divided into product management, clerk management and business settings.
+
+Shop management of shop owners includes management of merchandise, shop assistant and operation setting
+
+Commodity management is to add, delete, modify, query and sort commodity information. no demo here
+
+Shop owners' management of merchandise is the addition, deletion, modification, query, and sorting of merchandise information, which will not be displayed here.
+
+In the same way, the shopkeeper's management of the shop assistants can also be summarized as "adding, deleting, modifying and checking". Among them, "modify" refers to modifying the clerk's remarks and permissions.
+
+Similarly, shop owners' management for shop assistants is also summarized as addition, deletion, modification and query
+
+Clerk permissions include
+
+Process the order (receive the order - complete the distribution - complete the delivery)
+Modify product information (product name, price, minimum purchase quantity, etc.)
+Modify store information (store announcement, whether to open the door, etc.)
+Shop assistants' access includes
+
+order handling (order taking-order picking-order delivery)
+modify merchandise info (name, price, minimum quantity etc.)
+modify shop info (announcement, open or close etc.)
+The process of adding a new clerk is: store management tab page -> clerk management -> click "+Add clerk" to get the invitation code -> send the invitation code to the clerk -> the clerk clicks "become a clerk" on the merchant login interface -> enter Invitation code -> shop assistant registered successfully
+
+The procedure of adding a shop assistant is: go to shop management tab->assistant management->click "+add assistant"->obtain invitation code->send to the assistant->the assistant clicks "become an assistant" at the login page of B-side->input invitation code->assistant registration successful
+
+The following demonstrates the process of the store owner adding a new clerk and the operations that can be performed on the clerk.
+
+The demo below displays the procedure of adding a new assistant and what you can do to him.
+
+add_assistant
+
+Administration Side
+The business of the management end includes the management of the customer end and the management of the business end.
+
+A-side can manage C-side and B-side
+
+The management side can set the carousel advertisement on the homepage of the customer side, including advertisement sorting, slogan, etc. When users click on the ad, they will automatically jump to the product details page corresponding to the ad.
+
+A-side can set the ad at the home page of C-side. The setting includes ad sorting and ad slogan. When customers click the ad, they will automatically jump to the page with detailed info of the corresponding product.
+
+The management of the flea market on the management side is to review the commodities uploaded by users. Once an item has been reviewed, it can be placed on the flea market to be visible to all customers. If the product cannot pass the review, the administrator must state the reason before rejecting the release of the product.
+
+Management of flea market on A-side is the reviewing of the products uploaded by C-side. Products can enter the flea market and be accessed by every customer when it is approved on C-side.
+
+The management of the merchant side from the management side is mainly for the registration of the store and the ranking of the store under the "recommended store" on the homepage of the customer side
+
+Management of B-side on C-side involves shop registration and the rank of a shop under the "shop recommendation" module on C-side.
+
+The registration process of the store is similar to the process of adding shop assistants on the merchant side. The management terminal generates the store registration code and sends it to the store owner. The store owner clicks "New Merchant Registration" on the merchant login page and enters the registration code to complete the registration
+
+The procedure to register a shop is similar with adding a new assistant. The C-side generates shop registration code and send it to a shop owner. The owner will then go to the login page of B-side, click "open a shop" , input the code and finish the registration.
+
+The management side can modify the ranking value of the merchant. The higher the ranking value, the higher the ranking
+
+A-side can modify the ranking value of a shop. The higher the ranking value, the higher the shop ranks.
+
+The following demonstrates the process of reviewing the product uploaded by the user on the management side
+
+
+![giphy (1)](https://user-images.githubusercontent.com/72182017/222773972-ee2f5c8b-8697-48e7-8693-27d8294b5db1.gif)
+
+The demo below displays the procedure of how C-side review the product uploaded by C-side.
+Now you are Master Programmer
+
+![giphy](https://user-images.githubusercontent.com/72182017/222773655-3706f37c-adfb-4930-b84a-9148d233ea7d.gif)
